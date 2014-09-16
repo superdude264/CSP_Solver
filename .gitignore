@@ -50,3 +50,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.project
+*.pydevproject
+*.prefs
+Write-up.pdf
